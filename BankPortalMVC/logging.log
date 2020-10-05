@@ -1,0 +1,162 @@
+INFO  11:05:07 Application started. Press Ctrl+C to shut down.
+INFO  11:05:07 Application started. Press Ctrl+C to shut down.
+INFO  11:05:07 Hosting environment: Development
+INFO  11:05:07 Hosting environment: Development
+INFO  11:05:08 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  11:05:08 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  11:11:13 Application started. Press Ctrl+C to shut down.
+INFO  11:11:13 Application started. Press Ctrl+C to shut down.
+INFO  11:11:13 Hosting environment: Development
+INFO  11:11:13 Hosting environment: Development
+INFO  11:11:13 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  11:11:13 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  11:12:42 Login Initiated
+INFO  11:12:47 Authentication Inititaed
+INFO  11:12:49 Token Generated
+INFO  11:13:26 New Customer Creation Initiated
+INFO  11:13:28 New Customer Creation Response
+INFO  11:13:42 Logout of System
+INFO  11:13:42 Login Initiated
+INFO  11:13:47 Authentication Inititaed
+INFO  11:13:47 Token Generated
+INFO  11:13:47 Index of Customer
+INFO  11:14:07 Customer initiated deposit
+INFO  11:14:25 Deposition status
+INFO  11:14:28 Index of Customer
+INFO  11:14:29 Customer initiated withdraw of money
+INFO  11:14:47 Withdraw Status
+INFO  11:14:51 Index of Customer
+INFO  11:14:52 Customer initiated transfer of money
+INFO  11:15:18 Transfer Status
+INFO  11:15:21 Index of Customer
+INFO  11:15:32 Customer view Account Statement
+INFO  11:15:43 Index of Customer
+INFO  11:15:45 Logout of System
+INFO  11:15:45 Login Initiated
+INFO  11:16:36 Login Initiated
+INFO  11:16:42 Authentication Inititaed
+INFO  11:16:42 Token Generated
+INFO  11:16:58 New Customer Creation Initiated
+INFO  11:16:58 New Customer Creation Response
+INFO  11:17:14 Details of a particular customer initiated
+INFO  11:17:14 Customer Details generated
+INFO  11:17:36 Logout of System
+INFO  11:17:36 Login Initiated
+INFO  11:17:44 Authentication Inititaed
+INFO  11:17:44 Token Generated
+INFO  11:17:44 Index of Customer
+INFO  11:17:51 Customer initiated deposit
+INFO  11:17:56 Deposition status
+INFO  11:18:01 Index of Customer
+INFO  11:18:03 Customer initiated withdraw of money
+INFO  11:18:09 Withdraw Status
+INFO  11:18:11 Index of Customer
+INFO  11:18:13 Customer initiated transfer of money
+INFO  11:18:20 Transfer Status
+INFO  11:18:22 Index of Customer
+INFO  11:18:36 Customer view Account Statement
+INFO  11:18:39 Index of Customer
+INFO  11:18:42 Logout of System
+INFO  11:18:42 Login Initiated
+INFO  11:28:38 Application started. Press Ctrl+C to shut down.
+INFO  11:28:38 Application started. Press Ctrl+C to shut down.
+INFO  11:28:38 Hosting environment: Development
+INFO  11:28:38 Hosting environment: Development
+INFO  11:28:38 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  11:28:38 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  11:44:29 Login Initiated
+INFO  11:45:04 Authentication Inititaed
+INFO  11:45:06 Token Generated
+INFO  11:48:22 Application started. Press Ctrl+C to shut down.
+INFO  11:48:22 Application started. Press Ctrl+C to shut down.
+INFO  11:48:22 Hosting environment: Development
+INFO  11:48:22 Hosting environment: Development
+INFO  11:48:22 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  11:48:22 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  11:49:13 Login Initiated
+INFO  11:49:33 Authentication Inititaed
+INFO  11:50:15 Token Generated
+INFO  11:50:49 New Customer Creation Initiated
+INFO  11:52:20 New Customer Creation Response
+INFO  11:52:52 Details of a particular customer initiated
+INFO  11:52:52 Customer Details generated
+INFO  11:54:28 Logout of System
+INFO  11:54:28 Login Initiated
+INFO  11:54:38 Authentication Inititaed
+INFO  11:54:46 Token Generated
+INFO  11:54:46 Index of Customer
+INFO  11:55:48 Customer initiated deposit
+INFO  11:56:27 Deposition status
+INFO  11:56:39 Index of Customer
+INFO  11:56:58 Customer initiated withdraw of money
+INFO  11:58:02 Withdraw Status
+INFO  11:58:11 Index of Customer
+INFO  11:58:47 Customer initiated transfer of money
+INFO  11:59:05 Transfer Status
+INFO  11:59:17 Index of Customer
+INFO  11:59:57 Customer view Account Statement
+INFO  12:00:25 Index of Customer
+INFO  12:00:35 Logout of System
+INFO  12:00:35 Login Initiated
+INFO  08:01:31 Application started. Press Ctrl+C to shut down.
+INFO  08:01:31 Application started. Press Ctrl+C to shut down.
+INFO  08:01:31 Hosting environment: Development
+INFO  08:01:31 Hosting environment: Development
+INFO  08:01:31 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  08:01:31 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  08:01:48 Login Initiated
+INFO  08:02:07 Authentication Inititaed
+INFO  08:02:09 Token Generated
+INFO  08:03:16 New Customer Creation Initiated
+INFO  08:03:17 New Customer Creation Response
+INFO  08:04:23 Details of a particular customer initiated
+INFO  08:04:23 Customer Details generated
+INFO  08:05:09 Logout of System
+INFO  08:05:09 Login Initiated
+INFO  08:05:15 Authentication Inititaed
+INFO  08:05:15 Token Generated
+INFO  08:05:15 Index of Customer
+INFO  08:05:37 Customer initiated deposit
+INFO  08:05:47 Deposition status
+INFO  08:05:54 Index of Customer
+INFO  08:05:56 Customer initiated withdraw of money
+INFO  08:06:19 Withdraw Status
+INFO  08:06:38 Index of Customer
+INFO  08:06:43 Customer initiated transfer of money
+INFO  08:06:51 Transfer Status
+INFO  08:07:03 Index of Customer
+INFO  08:07:28 Customer view Account Statement
+INFO  08:07:43 Index of Customer
+INFO  08:07:54 Logout of System
+INFO  08:07:54 Login Initiated
+INFO  09:24:36 Application started. Press Ctrl+C to shut down.
+INFO  09:24:36 Application started. Press Ctrl+C to shut down.
+INFO  09:24:36 Hosting environment: Development
+INFO  09:24:36 Hosting environment: Development
+INFO  09:24:36 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  09:24:36 Content root path: E:\BankRetailSystem\Updated\BankPortalMVC
+INFO  09:25:56 Login Initiated
+INFO  09:26:26 Authentication Inititaed
+INFO  09:26:28 Token Generated
+INFO  09:27:01 New Customer Creation Initiated
+INFO  09:27:03 New Customer Creation Response
+INFO  09:27:23 Details of a particular customer initiated
+INFO  09:27:23 Customer Details generated
+INFO  09:27:34 Logout of System
+INFO  09:27:34 Login Initiated
+INFO  09:27:43 Authentication Inititaed
+INFO  09:27:43 Token Generated
+INFO  09:27:43 Index of Customer
+INFO  09:28:00 Customer initiated deposit
+INFO  09:28:07 Deposition status
+INFO  09:28:11 Index of Customer
+INFO  09:28:14 Customer initiated withdraw of money
+INFO  09:28:26 Withdraw Status
+INFO  09:28:37 Index of Customer
+INFO  09:28:39 Customer initiated transfer of money
+INFO  09:28:46 Transfer Status
+INFO  09:28:51 Index of Customer
+INFO  09:29:07 Customer view Account Statement
+INFO  09:29:13 Index of Customer
+INFO  09:29:18 Logout of System
+INFO  09:29:18 Login Initiated

@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: transactiondeployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Transaction
+  template:
+    metadata:
+      labels:
+        app: Transaction
+    spec:
+      containers:
+      - name: transactionrepository
+        image: bankcr.azurecr.io/transactionrepository:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: redone
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: transaction
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: Transaction

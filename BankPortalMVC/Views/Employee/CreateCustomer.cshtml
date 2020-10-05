@@ -1,0 +1,66 @@
+﻿@model BankPortalMVC.Models.customerDetails
+
+@{
+    ViewData["Title"] = "CreateCustomer";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+    <style>
+        #sm {
+            font-size: small;
+        }
+
+        #btn {
+            background-color: #4CAF50; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 20px;
+            margin-top: 80px;
+        }
+    </style>
+</head>
+<h1>Create a Customer Account</h1>
+<span id="sm">(Note:By Default Current and Savings account will be created)</span>
+<h4>Enter Customer Details</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateCustomer" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="customerId" class="control-label">Enter Customer ID</label>
+                <input asp-for="customerId" class="form-control" />
+                <span asp-validation-for="customerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="name" class="control-label">Enter Customer Name</label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="address" class="control-label">Enter Customer Address</label>
+                <input asp-for="address" class="form-control" />
+                <span asp-validation-for="address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dateOfBirth" class="control-label">Enter Date Of Birth(DD/MM/YYYY)</label>
+                <input asp-for="dateOfBirth" class="form-control" />
+                <span asp-validation-for="dateOfBirth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="panNumber" class="control-label">Enter Pan No.</label>
+                <input asp-for="panNumber" class="form-control" />
+                <span asp-validation-for="panNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" id="btn" value="Create Account" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+

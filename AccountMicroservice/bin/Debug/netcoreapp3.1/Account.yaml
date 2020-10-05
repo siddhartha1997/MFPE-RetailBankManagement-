@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: accountdeployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Account
+  template:
+    metadata:
+      labels:
+        app: Account
+    spec:
+      containers:
+      - name: accountrepository
+        image: bankcr.azurecr.io/accountrepository:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: redone
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: account
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: Account

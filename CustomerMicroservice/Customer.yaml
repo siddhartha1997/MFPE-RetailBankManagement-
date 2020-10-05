@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: customerdeployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Customer
+  template:
+    metadata:
+      labels:
+        app: Customer
+    spec:
+      containers:
+      - name: customerrepository
+        image: bankcr.azurecr.io/customerrepository:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: redone
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: customer
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: Customer

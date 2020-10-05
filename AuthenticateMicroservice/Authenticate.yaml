@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: authenticatedeployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Authenticate
+  template:
+    metadata:
+      labels:
+        app: Authenticate
+    spec:
+      containers:
+      - name: authenticaterepository
+        image: bankcr.azurecr.io/authenticaterepository:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: redone
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: authenticate
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: Authenticate

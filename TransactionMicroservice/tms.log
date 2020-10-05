@@ -1,0 +1,82 @@
+INFO  11:06:35 Application started. Press Ctrl+C to shut down.
+INFO  11:06:35 Application started. Press Ctrl+C to shut down.
+INFO  11:06:35 Hosting environment: Development
+INFO  11:06:35 Hosting environment: Development
+INFO  11:06:35 Content root path: C:\Users\Deva\Downloads\Devashish-master
+INFO  11:06:35 Content root path: C:\Users\Deva\Downloads\Devashish-master
+INFO  02:21:11 Application started. Press Ctrl+C to shut down.
+INFO  02:21:11 Application started. Press Ctrl+C to shut down.
+INFO  02:21:11 Hosting environment: Development
+INFO  02:21:11 Hosting environment: Development
+INFO  02:21:11 Content root path: C:\Users\Deva\Downloads\Devashish-master
+INFO  02:21:11 Content root path: C:\Users\Deva\Downloads\Devashish-master
+INFO  10:45:49 Application started. Press Ctrl+C to shut down.
+INFO  10:45:49 Application started. Press Ctrl+C to shut down.
+INFO  10:45:49 Hosting environment: Development
+INFO  10:45:49 Hosting environment: Development
+INFO  10:45:49 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  10:45:49 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  10:47:56 Application started. Press Ctrl+C to shut down.
+INFO  10:47:56 Application started. Press Ctrl+C to shut down.
+INFO  10:47:56 Hosting environment: Development
+INFO  10:47:56 Hosting environment: Development
+INFO  10:47:56 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  10:47:56 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  10:55:00 Application started. Press Ctrl+C to shut down.
+INFO  10:55:00 Application started. Press Ctrl+C to shut down.
+INFO  10:55:00 Hosting environment: Development
+INFO  10:55:00 Hosting environment: Development
+INFO  10:55:00 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  10:55:00 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  11:12:07 Application started. Press Ctrl+C to shut down.
+INFO  11:12:07 Application started. Press Ctrl+C to shut down.
+INFO  11:12:07 Hosting environment: Development
+INFO  11:12:07 Hosting environment: Development
+INFO  11:12:07 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  11:12:07 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  11:28:02 Application started. Press Ctrl+C to shut down.
+INFO  11:28:02 Application started. Press Ctrl+C to shut down.
+INFO  11:28:02 Hosting environment: Development
+INFO  11:28:02 Hosting environment: Development
+INFO  11:28:02 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  11:28:02 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  12:15:41 Application started. Press Ctrl+C to shut down.
+INFO  12:15:41 Application started. Press Ctrl+C to shut down.
+INFO  12:15:41 Hosting environment: Development
+INFO  12:15:41 Hosting environment: Development
+INFO  12:15:41 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  12:15:41 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  12:16:09 Application started. Press Ctrl+C to shut down.
+INFO  12:16:09 Application started. Press Ctrl+C to shut down.
+INFO  12:16:09 Hosting environment: Development
+INFO  12:16:09 Hosting environment: Development
+INFO  12:16:09 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  12:16:09 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  07:59:10 Application started. Press Ctrl+C to shut down.
+INFO  07:59:10 Application started. Press Ctrl+C to shut down.
+INFO  07:59:10 Hosting environment: Development
+INFO  07:59:10 Hosting environment: Development
+INFO  07:59:10 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  07:59:10 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  08:05:47 Deposition checking initiated
+INFO  08:05:47 Deposition success
+INFO  08:06:18 Withdrawing checking initiated
+INFO  08:06:19 Withdrawn Success response from Rules Microservice
+INFO  08:06:51 Transfer checking inititaed
+INFO  08:06:51 Transfer possible from Rules Microservice
+INFO  08:19:32 Deposition checking initiated
+INFO  08:19:32 Deposition success
+INFO  08:19:47 Withdrawing checking initiated
+INFO  08:19:47 Withdrawn Success response from Rules Microservice
+INFO  09:21:20 Application started. Press Ctrl+C to shut down.
+INFO  09:21:21 Application started. Press Ctrl+C to shut down.
+INFO  09:21:21 Hosting environment: Development
+INFO  09:21:21 Hosting environment: Development
+INFO  09:21:21 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  09:21:21 Content root path: E:\BankRetailSystem\Updated\TransactionMicroservice
+INFO  09:28:06 Deposition checking initiated
+INFO  09:28:06 Deposition success
+INFO  09:28:24 Withdrawing checking initiated
+INFO  09:28:26 Withdrawn Success response from Rules Microservice
+INFO  09:28:46 Transfer checking inititaed
+INFO  09:28:46 Transfer possible from Rules Microservice

@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ruledeployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Rule
+  template:
+    metadata:
+      labels:
+        app: Rule
+    spec:
+      containers:
+      - name: rulerepository
+        image: bankcr.azurecr.io/rulerepository:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: redone
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: rule
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: Rule
